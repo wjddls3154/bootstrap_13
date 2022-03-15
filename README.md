@@ -1,2 +1,10 @@
 # bootstrap_13
-Created with CodeSandbox
+
+- Navbar : 메뉴바 
+
+부트스트랩 Example
+- 만약에, 부트스트랩의 Examples 를 보다가 가지고 오고 싶은 기능 있으면, 
+- ctrl+shift+i 켜서, 커서 모양 누르고 원하는 기능에 갖다대면 코드가 나온다.
+- head 부분에서 부트스트랩인지 아닌지 확인가능하며, 코드를 복사해서 붙여넣으면 그 기능을 쓸 수 있다.
+
+
